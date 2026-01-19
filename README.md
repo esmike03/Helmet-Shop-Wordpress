@@ -1,6 +1,6 @@
 Helmet Shop Website
 
-![Website Banner](https://via.placeholder.com/1000x300?text=Helmet+Shop+Banner)
+![Website Banner](Screenshot 2024-04-14 195149.png)
 
 > An e-commerce website for helmets, built with **WordPress**, **Elementor**, and **Photoshop**. Fully responsive and visually appealing.
 
@@ -34,31 +34,24 @@ Helmet Shop Website
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Homepage" alt="Homepage" width="300"/><br>
+      <img src="Screenshot 2024-04-14 195212.png" alt="Homepage" width="300"/><br>
       <b>Homepage</b>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Products" alt="Products" width="300"/><br>
+      <img src="Screenshot 2024-04-14 195229.png" alt="Products" width="300"/><br>
       <b>Products Page</b>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Contact+Page" alt="Contact Page" width="300"/><br>
+      <img src="Screenshot 2024-04-14 195243.png" alt="Contact Page" width="300"/><br>
       <b>Contact Page</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Blog+Section" alt="Blog Section" width="300"/><br>
+      <img src="Screenshot 2024-04-14 195253.png" alt="Blog Section" width="300"/><br>
       <b>Blog Section</b>
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Product+Detail" alt="Product Detail" width="300"/><br>
-      <b>Product Detail</b>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/300x200?text=Cart+Page" alt="Cart Page" width="300"/><br>
-      <b>Cart Page</b>
-    </td>
+
   </tr>
 </table>
 
