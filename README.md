@@ -1,6 +1,5 @@
 Helmet Shop Website
 
-![Helmet Shop Website Banner](Screenshot 2024-04-14 195149.png) 
 
 > An e-commerce website for helmets, built with **WordPress**, **Elementor**, and **Photoshop**. Fully responsive and visually appealing.
 
@@ -21,7 +20,8 @@ Helmet Shop Website
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elementor/elementor-original.svg" alt="Elementor" width="60" height="60"/>
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/elementor-icon.png" alt="Elementor" width="60" height="60"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
