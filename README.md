@@ -1,6 +1,6 @@
 Helmet Shop Website
 
-![Banner](Screenshot 2024-04-14 195149.png) 
+![Helmet Shop Website Banner](Screenshot 2024-04-14 195149.png) 
 
 > An e-commerce website for helmets, built with **WordPress**, **Elementor**, and **Photoshop**. Fully responsive and visually appealing.
 
