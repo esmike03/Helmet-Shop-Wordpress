@@ -33,6 +33,10 @@ Helmet Shop Website
 
 <table>
   <tr>
+        <td align="center">
+      <img src="Screenshot 2024-04-14 195149.png" alt="Homepage" width="300"/><br>
+      <b>Homepage</b>
+    </td>
     <td align="center">
       <img src="Screenshot 2024-04-14 195212.png" alt="Homepage" width="300"/><br>
       <b>Homepage</b>
